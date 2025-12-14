@@ -28,7 +28,8 @@
    docker-compose up -d
    ```
    - The database configuration is already set in the codebase. No additional setup is required.
- 4. ** Run the Application
+   
+4. **Run the Application**
    ```bash
     pnpm start:dev
    ```
