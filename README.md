@@ -5,7 +5,7 @@
 - Node.js (v18 or higher)
 - pnpm (v6 or higher)
 - Git
-- docker desktop (for running the postgres database), i used postgres becase i was having issues with sqlite dependencies and it was taking too long to resolve.
+- docker desktop (for running the postgres database), i used postgres because i was having issues with sqlite dependencies and it was taking too long to resolve.
 - The project does not use and external environment variables, all configurations are done within the codebase for simplicity.
 
 
