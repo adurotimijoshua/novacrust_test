@@ -40,3 +40,6 @@
     https://documenter.getpostman.com/view/43568208/2sB3dTsT1Y
     ```
 - This documentation provides details about the available endpoints, request/response formats, error samples, success responses, and other relevant information.
+
+### Additional Notes
+- Brief notes on how the system will scale in production is found in the root dir of this project in a file named `How this wallet system can scale in production.pdf`.
